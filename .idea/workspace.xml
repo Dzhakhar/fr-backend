@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bec0c89-4b23-48c8-b992-395928777be9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1edzrt7Cqpv143zyVIvS5a61zv9" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bilal\workspace\focus-reactive-backend\routes\weatherApp" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bec0c89-4b23-48c8-b992-395928777be9" name="Default Changelist" comment="" />
+      <created>1594666459386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594666459386</updated>
+      <workItem from="1594666462399" duration="1003000" />
+      <workItem from="1594667481750" duration="1670000" />
+      <workItem from="1594669290286" duration="1328000" />
+      <workItem from="1594671105002" duration="599000" />
+      <workItem from="1594672919750" duration="921000" />
+      <workItem from="1594674730642" duration="599000" />
+      <workItem from="1594676543160" duration="913000" />
+      <workItem from="1594678364044" duration="1041000" />
+      <workItem from="1594680567734" duration="56000" />
+      <workItem from="1594719976257" duration="970000" />
+      <workItem from="1594720984556" duration="934000" />
+      <workItem from="1594723919459" duration="1101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
