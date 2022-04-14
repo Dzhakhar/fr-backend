@@ -1,5 +1,5 @@
 # fr-backend
 
 steps to run:
-`npm install`
-`npm run`
+1) ```npm install```
+2) ```npm run```
